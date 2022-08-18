@@ -1,0 +1,75 @@
+<MessageOfTheDayV01 messageId="sr2">
+<ImageUrl>http://services.slimerancher.com/messageOfTheDay/v2/images/UI-flutter-icon.png</ImageUrl>
+<LocalizedMessages>
+<LocalizedMessage languageCode="en">
+<AnnouncementText>Coming Soon!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>A new adventure begins today on PC and Xbox Series X|S!</BodyText>
+<ButtonText>Learn More</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="de">
+<AnnouncementText>Bald erhältlich!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>Ein neues Abenteuer beginnt am 22. September auf PC und Xbox Series X|S!</BodyText>
+<ButtonText>Mehr erfahren</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="es">
+<AnnouncementText>¡Próximamente!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>¡Una nueva aventura comienza el 22 de septiembre en PC y Xbox Series X|S!</BodyText>
+<ButtonText>Leer más</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="fr">
+<AnnouncementText>Bientôt disponible !</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>Une nouvelle aventure débute le 22 septembre sur PC et Xbox Série XS !</BodyText>
+<ButtonText>Où acheter</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="ru">
+<AnnouncementText>Скоро!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>Новое приключение начнётся 22 сентября на ПК и Xbox Series X|S!</BodyText>
+<ButtonText>Подробнее</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="sv">
+<AnnouncementText>Coming Soon!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>A new adventure begins September 22 on PC and Xbox Series X|S!</BodyText>
+<ButtonText>Learn More</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="ja">
+<AnnouncementText>Coming Soon!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>9月22日、新たな冒険の幕が開く…　PCとXbox Series X|Sに登場！</BodyText>
+<ButtonText>くわしく</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="pt">
+<AnnouncementText>Em breve!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>Em 22 de setembro, uma nova aventura começa no PC e Xbox Series X|S!</BodyText>
+<ButtonText>Saiba mais</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="ko">
+<AnnouncementText>커밍 순!</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>9월 22일에 PC 와 Xbox Series X|S에 새로운 모험이 시작됩니다!</BodyText>
+<ButtonText>더 알아보기</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+<LocalizedMessage languageCode="zh">
+<AnnouncementText>即将登场！</AnnouncementText>
+<TitleText>Slime Rancher 2</TitleText>
+<BodyText>9月22日，全新的冒险将在PC和Xbox Series X|S上启程！</BodyText>
+<ButtonText>了解更多</ButtonText>
+<Url>https://store.steampowered.com/app/1657630/Slime_Rancher_2/</Url>
+</LocalizedMessage>
+</LocalizedMessages>
+</MessageOfTheDayV01>
